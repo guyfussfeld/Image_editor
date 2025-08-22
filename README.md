@@ -3,9 +3,9 @@
 A Java program that transforms pictures into ASCII characters.  
 
 <p float="left">
-  <img src="images/lemur.jpeg" width="400" height="300"/>
-  <img src="images/ascii.jpeg" width="400" height="300"/>
-  <img src="images/zoom.jpeg" width="400" height="300"/>
+  <img src="images/image.jpeg" width="400" height="300"/>
+  <img src="images/quantized.jpeg" width="400" height="300"/>
+  <img src="images/blured.jpeg" width="400" height="300"/>
 </p>
 
 ## 📖 Usage Instructions
