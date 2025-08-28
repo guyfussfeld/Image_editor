@@ -1,6 +1,6 @@
-# ASCII Art Converter
+# Image Editor
 
-A Java program that transforms pictures into ASCII characters.  
+A Python image editor that applies filters and transformations.
 
 <p float="left">
   <img src="images/image.jpeg" width="200" height="400"/>
