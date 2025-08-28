@@ -7,3 +7,10 @@ A Python image editor that applies filters and transformations.
   <img src="images/quantized.jpeg" width="200" height="400"/>
   <img src="images/edged.jpeg" width="200" height="400"/>
 </p>
+
+## 📖 Usage Instructions
+
+Run the script with the image path:
+
+```bash
+python3 image_editor.py path/to/image.jpg
