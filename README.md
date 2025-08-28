@@ -13,4 +13,4 @@ A Python image editor that applies filters and transformations.
 Run the script with the image path:
 
 ```bash
-python3 image_editor.py path/to/image.jpg
+python3 main.py path/to/image.jpg
